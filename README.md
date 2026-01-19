@@ -96,3 +96,11 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+## Autor 
+
+This project was created by Facundo Abel Torrez.
+Development practice using NestJS and GitHub.
+
+The main objective of this project is to apply professional version control.
+workflows, including the use of feature branches and pull requests.
