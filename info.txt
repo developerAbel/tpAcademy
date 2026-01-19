@@ -1,0 +1,6 @@
+Project Overview:
+
+- This repository contains a backend project developed with NestJS.
+- The project was created to practice a real Git workflow commonly used in software development teams.
+- The focus of this project is on how changes are organized and managed using branches.
+- For this reason, the development process includes a develop branch and feature branches for isolated improvements from the main branch.
